@@ -1,3 +1,13 @@
+# Json Server
+Before running the Angular App.
+Need to run json serve.
+for download it command-
+npm i json-server
+Run- 
+json-server --watch data.json
+
+# You need to Install Bootstrap4 and font-awesome@4 before run it
+
 # Customerapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
